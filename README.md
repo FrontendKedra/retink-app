@@ -2,7 +2,7 @@
 
 ## Demo: 
 
-[https://frontendkedra.github.io/retink-app/](https://retink-app-2.vercel.app/)
+https://retink-app.vercel.app/
 
 ## Description: 
 
