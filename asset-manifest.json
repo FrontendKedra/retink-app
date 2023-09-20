@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/retink-app/static/js/main.3c49e600.js",
+    "static/js/787.258d6db0.chunk.js": "/retink-app/static/js/787.258d6db0.chunk.js",
+    "static/media/backgroundIcon.svg": "/retink-app/static/media/backgroundIcon.966367589bc10e55d52e173451314866.svg",
+    "static/media/profile.svg": "/retink-app/static/media/profile.8cecce9b16e10e1320cd29c61a212ce6.svg",
+    "static/media/retink.svg": "/retink-app/static/media/retink.b0c1360556a7992c25fff9ca35634f4c.svg",
+    "static/media/settings.svg": "/retink-app/static/media/settings.c6e589fc9c746acf7e84c221fa066dd9.svg",
+    "static/media/filter.svg": "/retink-app/static/media/filter.a156fc734b957498acfe3a32c038135b.svg",
+    "static/media/editOutline.svg": "/retink-app/static/media/editOutline.1793a57ea5e642bbbaddb99d642d1156.svg",
+    "static/media/list.svg": "/retink-app/static/media/list.46056bb42f4bc406c7baeae7174ed832.svg",
+    "static/media/square.svg": "/retink-app/static/media/square.a4c3041ab88ff7720ac51f87273fbf0e.svg",
+    "static/media/calendar.svg": "/retink-app/static/media/calendar.c8aa762efdf3787169cdf8f74fe6ad08.svg",
+    "static/media/viewGallery.svg": "/retink-app/static/media/viewGallery.34c4b789381091fdaf8ca2c39da2ffc5.svg",
+    "index.html": "/retink-app/index.html",
+    "static/media/search.svg": "/retink-app/static/media/search.14f9ec3b1a1e402039d51d64a3c986d3.svg",
+    "static/media/bell.svg": "/retink-app/static/media/bell.d7c747a6e54cfd178c664acab12eecee.svg",
+    "static/media/mainEdit.svg": "/retink-app/static/media/mainEdit.a0a90970c09b61831d25747be72807ca.svg",
+    "static/media/trending.svg": "/retink-app/static/media/trending.230a58c82ec4c276ab2bfb099a6c27aa.svg",
+    "static/media/logout.svg": "/retink-app/static/media/logout.5930afa5223b2d35d65e04d0b140f988.svg",
+    "static/media/coins.svg": "/retink-app/static/media/coins.dabdc0f9631e1904cb46ee2e36a2f43a.svg",
+    "static/media/home.svg": "/retink-app/static/media/home.9c0494df5a9f2d0f5e7c623af6a6306d.svg",
+    "static/media/removeRound.svg": "/retink-app/static/media/removeRound.20efcc617c668318475ddc59a2f8cf04.svg",
+    "main.3c49e600.js.map": "/retink-app/static/js/main.3c49e600.js.map",
+    "787.258d6db0.chunk.js.map": "/retink-app/static/js/787.258d6db0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c49e600.js"
+  ]
+}
