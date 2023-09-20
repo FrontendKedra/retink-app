@@ -6,7 +6,7 @@ https://frontendkedra.github.io/retink-app/
 
 ## Description: 
 
-This GitHub repository hosts the landing page for the Rethink application, developed as part of a job offer assignment. Please note that this landing page primarily serves a visual purpose and does not incorporate functional features commonly found in fully operational web applications. It contains responsive web design and transitions and transformations applied to buttons and tiles.
+This GitHub repository hosts the landing page for the Retink application, developed as part of a job offer assignment. Please note that this landing page primarily serves a visual purpose and does not incorporate functional features commonly found in fully operational web applications. It contains responsive web design and transitions and transformations applied to buttons and tiles.
 
 ## Preview:
 
